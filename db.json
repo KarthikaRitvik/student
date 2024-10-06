@@ -1,0 +1,21 @@
+{
+  "students" : [
+    
+      "name": "karthi",
+      "age": 17,
+      "department":"ece"
+    },
+    {
+      "name": "karnika",
+      "age": 18,
+      "department":"cse"
+      
+    },
+    {
+      "name": "karthis",
+      "age": 19,
+      "department":"IT"
+      
+    }
+  ]
+}
