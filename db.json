@@ -1,6 +1,6 @@
 {
   "students" : [
-    
+   { 
       "name": "karthi",
       "age": 17,
       "department":"ece"
